@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;CI/CD+%7C+Cloud+%7C+Automation;Always+Learning+New+Things&center=true&width=600&height=45">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ---
 
