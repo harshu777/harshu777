@@ -47,7 +47,16 @@
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*GCghsySEr-HB48bKytjaTQ.gif" width="600"/>
 </p>
-
-
 ```text
 Code → GitHub → CI Pipeline → Docker Build → Container Registry → Kubernetes Deploy
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshalbaviskar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+  </a>
+</p>
+
+
